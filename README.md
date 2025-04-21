@@ -3,6 +3,10 @@
 ## Description
 This tool allows users to download tracks or playlists from SoundCloud as MP3 files with appropriate metadata.
 
+# Preview
+
+![alt text](image.png)
+
 ## Installation
 1. Make sure Python 3.6 or higher is installed.
 2. Install dependencies:
