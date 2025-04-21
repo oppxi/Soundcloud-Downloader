@@ -1,0 +1,33 @@
+OPPXI Soundcloud Downloader - Notices
+
+This project uses the following third-party libraries:
+
+1. yt-dlp
+   - License: Unlicense
+   - Copyright: (c) 2020-2025 yt-dlp developers and contributors
+   - Source: https://github.com/yt-dlp/yt-dlp
+   - The Unlicense allows free use, modification, and distribution of the software. 
+     See the full Unlicense text at https://unlicense.org/.
+
+2. mutagen
+   - License: GPL-2.0
+   - Copyright: (c) 2005-2025 Joe Wreschnig, Michael Urman, and others
+   - Source: https://github.com/quodlibet/mutagen
+   - This project is licensed under GPL-2.0 due to the use of mutagen. 
+     See the LICENSE file for details.
+
+3. colorama
+   - License: BSD-3-Clause
+   - Copyright: (c) 2010-2025 Jonathan Hartley & Arnon Yaari
+   - Source: https://github.com/tartley/colorama
+   - The BSD-3-Clause license requires the following notice:
+     Redistribution and use in source and binary forms, with or without
+     modification, are permitted provided that the following conditions are met:
+     1. Redistributions of source code must retain the above copyright notice,
+        this list of conditions and the following disclaimer.
+     2. Redistributions in binary form must reproduce the above copyright notice,
+        this list of conditions and the following disclaimer in the documentation
+        and/or other materials provided with the distribution.
+     3. Neither the name of the copyright holder nor the names of its contributors
+        may be used to endorse or promote products derived from this software
+        without specific prior written permission.
