@@ -23,7 +23,7 @@ This tool allows users to download tracks or playlists from SoundCloud as MP3 fi
 
 ## How to Use SoundLoader:
 1. Download the file on [Release](https://github.com/oppxi/Soundcloud-Downloader/releases/tag/SoundLoaderV2) Save it into your computer.
-2. Double-click oppxi_sc_dwn.exe to run the application.
+2. Double-click ``oppxi_sc_dwn.exe`` to run the application.
 3. If you see a Windows security warning, click "More info" and "Run anyway".
 4. Enter the SoundCloud URL (song or playlist) and click "Download".
 
