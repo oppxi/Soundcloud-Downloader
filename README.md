@@ -3,22 +3,29 @@
 ## Description
 This tool allows users to download tracks or playlists from SoundCloud as MP3 files with appropriate metadata.
 
-# Preview
+# Preview Old
 
 ![alt text](image.png)
 
-## Installation
-1. Make sure Python 3.6 or higher is installed.
-2. Install dependencies:
-3. Install FFmpeg for audio conversion:
-- On Windows: Download FFmpeg from the official website and add it to PATH.
-- On Linux: `sudo apt install ffmpeg`
-- On macOS: `brew install ffmpeg`
+# What Changes:
+- Update into GUI for easy and friendly!
+- Added `Output Folder: downloads`
+- Added `Open Download Folder`
+- Toggle Theme (Light/Dark Mode)
+- Progress Bar (Gradient)
 
-## How to Use
-1. Run the script:
-2. Enter the SoundCloud URL (track or playlist) when prompted.
-3. The MP3 file will be saved in the `downloads` folder.
+## Preview Mode (Light)
+![image](https://github.com/user-attachments/assets/620f8175-930f-47bb-b702-b8119e8b3896)
+
+## Preview Mode (Dark)
+![image](https://github.com/user-attachments/assets/7e876a9c-3e63-4c06-b6a7-a4ee4759cc15)
+
+
+## How to Use SoundLoader:
+1. Download the file on [Release](https://github.com/oppxi/Soundcloud-Downloader/releases/tag/SoundLoaderV2) Save it into your computer.
+2. Double-click oppxi_sc_dwn.exe to run the application.
+3. If you see a Windows security warning, click "More info" and "Run anyway".
+4. Enter the SoundCloud URL (song or playlist) and click "Download".
 
 ## Disclaimer
 This tool is provided for educational and personal purposes only. Users are responsible for complying with the SoundCloud terms of service and applicable copyright laws. The creator of this project is not responsible for any misuse of this tool.
