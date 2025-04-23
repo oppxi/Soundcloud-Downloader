@@ -8,11 +8,12 @@ This tool allows users to download tracks or playlists from SoundCloud as MP3 fi
 ![alt text](image.png)
 
 # What Changes:
-- Update into GUI for easy and friendly!
+- Update change into GUI for easy and friendly!
 - Added `Output Folder: downloads`
 - Added `Open Download Folder`
-- Toggle Theme (Light/Dark Mode)
+- Toggle Theme Mode (Light/Dark)
 - Progress Bar (Gradient)
+- download log 
 
 ## Preview Mode (Light)
 ![image](https://github.com/user-attachments/assets/620f8175-930f-47bb-b702-b8119e8b3896)
